@@ -14,14 +14,14 @@ This repository contains a Python-based AI chatbot designed to assist users with
 1. **Clone the Repository**:
 
     ```bash
-   git clone https://github.com/AshutoshMitraJi/healthcare_ai_chatbot.git
+   git clone https://github.com/Rahulgd14/Healthcare.git
    ```
 
 
 2. **Navigate to the Project Directory**:
 
     ```bash
-   cd healthcare_ai_chatbot
+   cd Healthcare
    ```
 
 
@@ -51,7 +51,7 @@ This repository contains a Python-based AI chatbot designed to assist users with
 
 2. **Interact with the Chatbot**:
 
-    Open your web browser and navigate to `https://healthcare-ai-chatbot.streamlit.app/` to start interacting with the chatbot.  
+    Open your web browser and navigate to `https://healthcareaichatbotgit-hc2jbthzdwahco8v6rgfjl.streamlit.app/` to start interacting with the chatbot.  
 
 ## Configuration
 
